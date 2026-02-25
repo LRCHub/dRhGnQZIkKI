@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Bounce",
+  "base_artist": "Rema",
+  "createdAt": "2026-02-25T02:24:50.999201Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Flossie Dickey Bounce",
+      "artist": "Dance Gavin Dance",
+      "has_synced": true,
+      "path": "select/01_Flossie_Dickey_Bounce_Dance_Gavin_Dance.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Pounce Bounce",
+      "artist": "Dance Gavin Dance",
+      "has_synced": false,
+      "path": "select/02_Pounce_Bounce_Dance_Gavin_Dance.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Bounce",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/03_Bounce_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Bounce (Let Me See Ya Throw It)",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/04_Bounce_(Let_Me_See_Ya_Throw_It)_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Hot Shit Makin' Ya Bounce",
+      "artist": "Busta Rhymes",
+      "has_synced": true,
+      "path": "select/05_Hot_Shit_Makin'_Ya_Bounce_Busta_Rhymes.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "More Bounce To The Ounce",
+      "artist": "Zapp",
+      "has_synced": false,
+      "path": "select/06_More_Bounce_To_The_Ounce_Zapp.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Bounce Out With That",
+      "artist": "YBN Nahmir",
+      "has_synced": true,
+      "path": "select/07_Bounce_Out_With_That_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Bounce Out With That Remix (feat. Machine Gun Kelly)",
+      "artist": "YBN Nahmir feat. Machine Gun Kelly",
+      "has_synced": true,
+      "path": "select/08_Bounce_Out_With_That_Remix_(feat._Machine_Gun_Kelly)_YBN_Nahmir_feat._Machine_Gun_Kelly.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Bounce Out With That Remix (feat. Machine Gun Kelly)",
+      "artist": "YBN Nahmir",
+      "has_synced": true,
+      "path": "select/09_Bounce_Out_With_That_Remix_(feat._Machine_Gun_Kelly)_YBN_Nahmir.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Bounce",
+      "artist": "MSTRKRFT feat. N.O.R.E. & ISIS",
+      "has_synced": false,
+      "path": "select/10_Bounce_MSTRKRFT_feat._N.O.R.E._&_ISIS.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Bounce (Feat. N.O.R.E. & Isis)",
+      "artist": "MSTRKRFT",
+      "has_synced": false,
+      "path": "select/11_Bounce_(Feat._N.O.R.E._&_Isis)_MSTRKRFT.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Bounce (feat. N.O.R.E.) (extended version)",
+      "artist": "MSTRKRFT",
+      "has_synced": false,
+      "path": "select/12_Bounce_(feat._N.O.R.E.)_(extended_version)_MSTRKRFT.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Bounce (feat. N.O.R.E.) (radio version)",
+      "artist": "MSTRKRFT",
+      "has_synced": false,
+      "path": "select/13_Bounce_(feat._N.O.R.E.)_(radio_version)_MSTRKRFT.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Bounce",
+      "artist": "Lil' Flip",
+      "has_synced": false,
+      "path": "select/14_Bounce_Lil'_Flip.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Bounce (Radio Edit)",
+      "artist": "Calvin Harris",
+      "has_synced": true,
+      "path": "select/15_Bounce_(Radio_Edit)_Calvin_Harris.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Bounce Back",
+      "artist": "42 Dugg",
+      "has_synced": false,
+      "path": "select/16_Bounce_Back_42_Dugg.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Bounce",
+      "artist": "Rema",
+      "has_synced": false,
+      "path": "select/pl_01_Bounce_Rema.txt"
+    }
+  ]
+}
